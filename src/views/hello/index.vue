@@ -15,7 +15,6 @@
           <a href>
             <i class="iconfont iconRN-edit"></i>
           </a>
-        
         </div>
         <h2 class="time-area">
           现在时间是：
